@@ -74,7 +74,6 @@ Movie_Plot_RAG_System/
 │
 ├── Movie_Plot_RAG_System.ipynb
 ├── README.md
-└── movie_plots.csv
 
 ```
 
