@@ -22,6 +22,8 @@ The system follows a multi-stage RAG pipeline:
 8. Structured JSON output
 9. Evaluation using test questions
 
+![Movie Plot RAG System Architecture](Architecture.png)
+
 ## Technologies Used
 
 - Python
