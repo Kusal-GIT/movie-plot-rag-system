@@ -73,9 +73,9 @@ The project is designed to run in Google Colab without requiring a local Python,
 
 ```text
 Movie_Plot_RAG_System/
-│
-├── Movie_Plot_RAG_System.ipynb
-├── README.md
+
+Movie_Plot_RAG_System.ipynb
+README.md
 
 ```
 
